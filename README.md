@@ -1,1 +1,1 @@
-# hello-nextjs
+# Simple Next.js app
