@@ -1,3 +1,3 @@
 # Simple Next.js app
-npm install
-npm run start
+npm install.
+npm run start.
